@@ -1,6 +1,12 @@
-# Ruby re-implementation of the Lynda - FoP: Design Patterns Course
+# Exercises for FoP: Design Patterns
 
-A repo to re-implement the patterns discussed in the course using Ruby to learn the patterns better.
+Attempt to re-implement the patterns discussed in the course using Ruby.
+
+## Course details
+
+Provider | Course Name                                       | Presenters
+-------- | ------------------------------------------------- | ---------------------------------------------
+Lynda    | [Foundations of Programming: Design Patterns][dp] | [Elisabeth Robson][er] and [Eric Freeman][ef]
 
 ## Progress
 
@@ -14,3 +20,7 @@ A repo to re-implement the patterns discussed in the course using Ruby to learn 
 - [ ] 07 - The Collection Pattern
 - [ ] 08 - Factories
 - [ ] 09 - Conclusion
+
+[dp]: http://www.lynda.com/Developer-Programming-Foundations-tutorials/Foundations-Programming-Design-Patterns/135365-2.html
+[er]: http://www.lynda.com/Elisabeth-Robson/1077106-1.html
+[ef]: http://www.lynda.com/Eric-Freeman/1077107-1.html
